@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\",
+  "WorkspaceRootPath": "C:\\dev\\dotnet\\MatchGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26C7ACE9-B7F0-4016-BEF8-79E5BF075AED}|MatchGame.csproj|c:\\dev\\dotnet\\exercicioslivrocsharp\\matchgame\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{26C7ACE9-B7F0-4016-BEF8-79E5BF075AED}|MatchGame.csproj|c:\\dev\\dotnet\\matchgame\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{26C7ACE9-B7F0-4016-BEF8-79E5BF075AED}|MatchGame.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26C7ACE9-B7F0-4016-BEF8-79E5BF075AED}|MatchGame.csproj|c:\\dev\\dotnet\\exercicioslivrocsharp\\matchgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26C7ACE9-B7F0-4016-BEF8-79E5BF075AED}|MatchGame.csproj|c:\\dev\\dotnet\\matchgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26C7ACE9-B7F0-4016-BEF8-79E5BF075AED}|MatchGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26C7ACE9-B7F0-4016-BEF8-79E5BF075AED}|MatchGame.csproj|c:\\dev\\dotnet\\exercicioslivrocsharp\\matchgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{26C7ACE9-B7F0-4016-BEF8-79E5BF075AED}|MatchGame.csproj|c:\\dev\\dotnet\\matchgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{26C7ACE9-B7F0-4016-BEF8-79E5BF075AED}|MatchGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\App.xaml",
+              "DocumentMoniker": "C:\\dev\\dotnet\\MatchGame\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\App.xaml",
+              "ToolTip": "C:\\dev\\dotnet\\MatchGame\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-28T01:23:41.999Z",
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\dev\\dotnet\\MatchGame\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\dev\\dotnet\\MatchGame\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\dev\\dotnet\\MatchGame\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\MainWindow.xaml",
+              "ToolTip": "C:\\dev\\dotnet\\MatchGame\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-28T01:01:59.219Z"
