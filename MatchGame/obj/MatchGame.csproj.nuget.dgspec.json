@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\dotnet\\MatchGame\\MatchGame.csproj": {}
+    "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\MatchGame.csproj": {}
   },
   "projects": {
-    "C:\\dev\\dotnet\\MatchGame\\MatchGame.csproj": {
+    "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\MatchGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\dotnet\\MatchGame\\MatchGame.csproj",
+        "projectUniqueName": "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\MatchGame.csproj",
         "projectName": "MatchGame",
-        "projectPath": "C:\\dev\\dotnet\\MatchGame\\MatchGame.csproj",
+        "projectPath": "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\MatchGame.csproj",
         "packagesPath": "C:\\Users\\pires.sistemas\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\dotnet\\MatchGame\\obj\\",
+        "outputPath": "C:\\dev\\dotnet\\ExerciciosLivroCSharp\\MatchGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
